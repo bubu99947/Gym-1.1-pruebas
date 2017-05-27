@@ -1,0 +1,25 @@
+        public bool isNumero(TextBox txt, ErrorProvider epError, int tamanio)
+        {
+            string value = txt.Text = txt.Text.Trim();
+            if (value.Length != 0)
+            {
+                if (txt.Text.Length != tamanio)
+                {
+                    epError.SetError(txt, "");
+                    epError.SetError(txt, "Error! Deben de ser " + tamanio.ToString() + " digitos");
+                    return false;
+                }
+
+                foreach (char car in value)
+                    if (!char.IsDigit(car))
+                    {
+                        epError.SetError(txt, "");
+                        epError.SetError(txt, "Error! Solo se permiten números");
+                        return false;
+                    }
+
+                epError.SetError(txt, "");
+                return true;
+            }
+            return true;
+        }
