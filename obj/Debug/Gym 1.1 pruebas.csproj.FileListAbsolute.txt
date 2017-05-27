@@ -1,0 +1,26 @@
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\bin\Debug\Gym 1.1 pruebas.exe.config
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym 1.1 pruebas.csprojResolveAssemblyReference.cache
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Properties.Resources.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmAdministracionGimnasio.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmAgregarEjercicio.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmAgregarTipoMembresia.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmConsultarAccesos.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmControlDeAcceso.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmEditarSocio.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmPagarMembresia.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmRutinas.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmRutinasAgregadas.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmSeleccionar.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Views.FrmTomaFoto.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym 1.1 pruebas.csproj.GenerateResource.Cache
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\bin\Debug\Gym 1.1 pruebas.exe
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\bin\Debug\Gym 1.1 pruebas.pdb
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\bin\Debug\AForge.Video.DirectShow.dll
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\bin\Debug\AForge.Video.dll
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\bin\Debug\Mono.Security.dll
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\bin\Debug\Npgsql.dll
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\bin\Debug\AForge.Video.DirectShow.xml
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym 1.1 pruebas.exe
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym 1.1 pruebas.pdb
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Formprueba.resources
+D:\OneDrive\Proyectos Visual Studio\Gym 1.1 pruebas\Gym 1.1 pruebas\obj\Debug\Gym_1_1_pruebas.Prueba.resources
